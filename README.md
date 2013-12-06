@@ -40,3 +40,8 @@ ANDROID
 =======
 
 Utilisez la géolocalisation de votre téléphone pour trouver l'offre la plus proche de votre emplacement (Yes, we are watching you ...) et partagez vos envies avec d'autres utilisateurs ! 
+
+HOW TO USE
+==========
+
+Vas sur le site, l'appli et, nom d'un chien .... RTFM !
