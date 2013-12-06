@@ -8,7 +8,7 @@ The DO WHAT THE FUCK YOU WANT BeerWare LICENSE
  as the name is changed.
  
    DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
    1. You just DO WHAT THE FUCK YOU WANT TO.
    2. If we meet some day, and you think this stuff is worth it, you can buy us a beer in return.
