@@ -1,4 +1,0 @@
-gestionProjet
-=============
-
-Docs / Communication
